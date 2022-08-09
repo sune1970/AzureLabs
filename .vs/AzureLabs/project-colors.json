@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0f5839d-7545-4461-b0e0-2657615c90fb": {
+      "ProjectGuid": "a0f5839d-7545-4461-b0e0-2657615c90fb",
+      "DisplayName": "AzureLabs",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
